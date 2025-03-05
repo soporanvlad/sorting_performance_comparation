@@ -19,3 +19,6 @@ The program calculates the execution time for each of these sorting algorithms a
 - Measures execution time for each sort.
 - Displays the results in a comparative graph.
 - Easy to use and customizable to add new sorting algorithms.
+
+## License
+This project is licensed under the MIT License.
